@@ -14,5 +14,9 @@
   "include": [
     "**/*.spec.ts",
     "**/*.d.ts"
+  ],
+  "lib": [
+    "es6",
+    "dom"
   ]
 }

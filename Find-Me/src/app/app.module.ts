@@ -1,9 +1,17 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
+
 import { HttpClientModule } from '@angular/common/http';
 import{FormsModule} from '@angular/forms';
 
+
+
+import { HttpClientModule } from '@angular/common/http';
 import { AppComponent } from './app.component';
+
+import { AccueilComponent } from './accueil/accueil.component';
+
+
 import { RabbitComponent } from './rabbit/rabbit.component';
 import { HellComponent } from './hell/hell.component';
 import { DoctorComponent } from './doctor/doctor.component';
@@ -14,9 +22,19 @@ import { Egg4Component } from './egg4/egg4.component';
 import { Egg5Component } from './egg5/egg5.component';
 import { Egg6Component } from './egg6/egg6.component';
 
+
 @NgModule({
   declarations: [
     AppComponent,
+
+    
+  ],
+  imports: [
+    BrowserModule,
+    FormsModule, 
+    HttpClientModule,
+    
+    AccueilComponent,
     RabbitComponent,
     HellComponent,
     DoctorComponent,
@@ -27,10 +45,6 @@ import { Egg6Component } from './egg6/egg6.component';
     Egg5Component,
     Egg6Component
   ],
-  imports: [
-    BrowserModule,
-    HttpClientModule,
-    FormsModule,
 
   ],
   providers: [],

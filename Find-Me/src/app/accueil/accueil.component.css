@@ -1,0 +1,13 @@
+.back{
+    background-image: url(./../../assets/fond.jpg);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 6000px;
+    width: 100vw;
+    
+}
+
+a{
+    font-size: 200%;
+}
