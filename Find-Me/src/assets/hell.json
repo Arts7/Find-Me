@@ -1,0 +1,1104 @@
+[
+    {
+        "name": "Rick Sanchez",
+        "species": "Human",
+        "gender": "Male",
+        "origin": "Earth",
+        "image": "https://images.innoveduc.fr/easter_hackathon/1.jpeg",
+        "skills": [
+            "mental control:6",
+            "pass through walls:5",
+            "Xray vision:9"
+        ],
+        "id": "5cac51240d488f0da6151c31",
+        "meta": {
+            "revision": 0,
+            "created": 1555590498964,
+            "version": 0
+        },
+        "$loki": 117
+    },
+    {
+        "name": "Rogger Rabbit",
+        "species": "Rabbit toon",
+        "gender": "Male",
+        "origin": "Toons City",
+        "image": "https://images.innoveduc.fr/easter_hackathon/4df16f2a2102cb1e39d2f2531e3b7881.jpg",
+        "skills": [
+            "hight strength:3",
+            "magnetic control:5",
+            "fly:8"
+        ],
+        "id": "5cac51240d488f0da6151c32",
+        "meta": {
+            "revision": 0,
+            "created": 1555590498964,
+            "version": 0
+        },
+        "$loki": 118
+    },
+    {
+        "name": "Morty Smith",
+        "species": "Human",
+        "gender": "Male",
+        "origin": "Earth",
+        "image": "https://images.innoveduc.fr/easter_hackathon/2.jpeg",
+        "skills": [
+            "fly:4",
+            "dexterity:1",
+            "Xray vision:4"
+        ],
+        "id": "5cac51240d488f0da6151c33",
+        "meta": {
+            "revision": 0,
+            "created": 1555590498964,
+            "version": 0
+        },
+        "$loki": 119
+    },
+    {
+        "name": "Darth Vader",
+        "species": "Human/Cyborg",
+        "gender": "Male",
+        "origin": "Tatooine",
+        "image": "https://images.innoveduc.fr/easter_hackathon/6438864-dc94c42f-acac-44ff-8804-85a37f06262d.jpeg",
+        "skills": [
+            "Xray vision:1",
+            "fly:9",
+            "mental control:9"
+        ],
+        "id": "5cac51240d488f0da6151c34",
+        "meta": {
+            "revision": 0,
+            "created": 1555590498964,
+            "version": 0
+        },
+        "$loki": 120
+    },
+    {
+        "name": "Summer Smith",
+        "species": "Human",
+        "gender": "Female",
+        "origin": "Earth",
+        "image": "https://images.innoveduc.fr/easter_hackathon/3.jpeg",
+        "skills": [
+            "hight strength:6",
+            "Xray vision:2",
+            "hight strength:6"
+        ],
+        "id": "5cac51240d488f0da6151c35",
+        "meta": {
+            "revision": 0,
+            "created": 1555590498964,
+            "version": 0
+        },
+        "$loki": 121
+    },
+    {
+        "name": "Ellen Ripley",
+        "species": "Human",
+        "gender": "Female",
+        "origin": "Earth",
+        "image": "https://images.innoveduc.fr/easter_hackathon/385922-3756-ellen-ripley.jpg",
+        "skills": [
+            "hight speed:3",
+            "hight speed:6",
+            "resurrection:9"
+        ],
+        "id": "5cac51240d488f0da6151c36",
+        "meta": {
+            "revision": 0,
+            "created": 1555590498964,
+            "version": 0
+        },
+        "$loki": 122
+    },
+    {
+        "name": "Beth Smith",
+        "species": "Human",
+        "gender": "Female",
+        "origin": "Earth",
+        "image": "https://images.innoveduc.fr/easter_hackathon/4.jpeg",
+        "skills": [
+            "resurrection:7",
+            "fly:7",
+            "fly:8"
+        ],
+        "id": "5cac51240d488f0da6151c37",
+        "meta": {
+            "revision": 0,
+            "created": 1555590498964,
+            "version": 0
+        },
+        "$loki": 123
+    },
+    {
+        "name": "Jerry Smith",
+        "species": "Human",
+        "gender": "Male",
+        "origin": "Earth",
+        "image": "https://images.innoveduc.fr/easter_hackathon/5.jpeg",
+        "skills": [
+            "dexterity:9",
+            "mental control:1",
+            "dexterity:4"
+        ],
+        "id": "5cac51240d488f0da6151c38",
+        "meta": {
+            "revision": 0,
+            "created": 1555590498964,
+            "version": 0
+        },
+        "$loki": 124
+    },
+    {
+        "name": "Mystique",
+        "species": "Human Mutant",
+        "gender": "Female",
+        "origin": "Earth",
+        "image": "https://images.innoveduc.fr/easter_hackathon/250px-Mystique11.png",
+        "skills": [
+            "resurrection:5",
+            "Xray vision:5",
+            "magnetic control:7"
+        ],
+        "id": "5cac51240d488f0da6151c39",
+        "meta": {
+            "revision": 0,
+            "created": 1555590498964,
+            "version": 0
+        },
+        "$loki": 125
+    },
+    {
+        "name": "Abadango Cluster Princess",
+        "species": "Alien",
+        "gender": "Female",
+        "origin": "Abadango",
+        "image": "https://images.innoveduc.fr/easter_hackathon/6.jpeg",
+        "skills": [
+            "Xray vision:7",
+            "magnetic control:6",
+            "hight strength:7"
+        ],
+        "id": "5cac51240d488f0da6151c3a",
+        "meta": {
+            "revision": 0,
+            "created": 1555590498964,
+            "version": 0
+        },
+        "$loki": 126
+    },
+    {
+        "name": "Abradolf Lincler",
+        "species": "Human",
+        "gender": "Male",
+        "origin": "Earth",
+        "image": "https://images.innoveduc.fr/easter_hackathon/7.jpeg",
+        "skills": [
+            "pass through walls:6",
+            "magnetic control:7",
+            "mental control:4"
+        ],
+        "id": "5cac51240d488f0da6151c3b",
+        "meta": {
+            "revision": 0,
+            "created": 1555590498964,
+            "version": 0
+        },
+        "$loki": 127
+    },
+    {
+        "name": "Adjudicator Rick",
+        "species": "Human",
+        "gender": "Male",
+        "origin": "Unknow",
+        "image": "https://images.innoveduc.fr/easter_hackathon/8.jpeg",
+        "skills": [
+            "pass through walls:4",
+            "fly:3",
+            "Xray vision:6"
+        ],
+        "id": "5cac51240d488f0da6151c3c",
+        "meta": {
+            "revision": 0,
+            "created": 1555590498964,
+            "version": 0
+        },
+        "$loki": 128
+    },
+    {
+        "name": "Hellboy",
+        "species": "Demon",
+        "gender": "Male",
+        "origin": "Hell",
+        "image": "https://images.innoveduc.fr/easter_hackathon/5612601-hbyws17-fc-fnlc.jpg",
+        "skills": [
+            "fly:3",
+            "hight strength:6",
+            "magnetic control:5"
+        ],
+        "id": "5cac51240d488f0da6151c3d",
+        "meta": {
+            "revision": 0,
+            "created": 1555590498964,
+            "version": 0
+        },
+        "$loki": 129
+    },
+    {
+        "name": "Agency Director",
+        "species": "Human",
+        "gender": "Male",
+        "origin": "Earth",
+        "image": "https://images.innoveduc.fr/easter_hackathon/9.jpeg",
+        "skills": [
+            "magnetic control:4",
+            "invisibility:4",
+            "mental control:5"
+        ],
+        "id": "5cac51240d488f0da6151c3e",
+        "meta": {
+            "revision": 0,
+            "created": 1555590498964,
+            "version": 0
+        },
+        "$loki": 130
+    },
+    {
+        "name": "Alan Rails",
+        "species": "Human",
+        "gender": "Male",
+        "origin": "Unknow",
+        "image": "https://images.innoveduc.fr/easter_hackathon/10.jpeg",
+        "skills": [
+            "fly:7",
+            "dexterity:4",
+            "dexterity:8"
+        ],
+        "id": "5cac51240d488f0da6151c3f",
+        "meta": {
+            "revision": 0,
+            "created": 1555590498964,
+            "version": 0
+        },
+        "$loki": 131
+    },
+    {
+        "name": "Albert Einstein",
+        "species": "Human",
+        "gender": "Male",
+        "origin": "Earth",
+        "image": "https://images.innoveduc.fr/easter_hackathon/11.jpeg",
+        "skills": [
+            "mental control:6",
+            "dexterity:4",
+            "hight speed:5"
+        ],
+        "id": "5cac51240d488f0da6151c40",
+        "meta": {
+            "revision": 0,
+            "created": 1555590498964,
+            "version": 0
+        },
+        "$loki": 132
+    },
+    {
+        "name": "Supergirl (Kara Zor-El)",
+        "species": "Kryptonian",
+        "gender": "Female",
+        "origin": "Krypton",
+        "image": "https://images.innoveduc.fr/easter_hackathon/250px-Supergirl_Kara_Zor-El_-DC_Rebirth_version-.jpg",
+        "skills": [
+            "magnetic control:3",
+            "pass through walls:5",
+            "resurrection:9"
+        ],
+        "id": "5cac51240d488f0da6151c41",
+        "meta": {
+            "revision": 0,
+            "created": 1555590498964,
+            "version": 0
+        },
+        "$loki": 133
+    },
+    {
+        "name": "Alexander",
+        "species": "Human",
+        "gender": "Male",
+        "origin": "Earth",
+        "image": "https://images.innoveduc.fr/easter_hackathon/12.jpeg",
+        "skills": [
+            "Xray vision:9",
+            "pass through walls:3",
+            "hight strength:2"
+        ],
+        "id": "5cac51240d488f0da6151c42",
+        "meta": {
+            "revision": 0,
+            "created": 1555590498964,
+            "version": 0
+        },
+        "$loki": 134
+    },
+    {
+        "name": "Alien Googah",
+        "species": "Alien",
+        "gender": "unknown",
+        "origin": "Unknow",
+        "image": "https://images.innoveduc.fr/easter_hackathon/13.jpeg",
+        "skills": [
+            "pass through walls:5",
+            "magnetic control:9",
+            "magnetic control:5"
+        ],
+        "id": "5cac51240d488f0da6151c43",
+        "meta": {
+            "revision": 0,
+            "created": 1555590498964,
+            "version": 0
+        },
+        "$loki": 135
+    },
+    {
+        "name": "Alien Morty",
+        "species": "Alien",
+        "gender": "Male",
+        "origin": "Unknow",
+        "image": "https://images.innoveduc.fr/easter_hackathon/14.jpeg",
+        "skills": [
+            "resurrection:9",
+            "fly:8",
+            "invisibility:2"
+        ],
+        "id": "5cac51240d488f0da6151c44",
+        "meta": {
+            "revision": 0,
+            "created": 1555590498964,
+            "version": 0
+        },
+        "$loki": 136
+    },
+    {
+        "name": "Alien Rick",
+        "species": "Alien",
+        "gender": "Male",
+        "origin": "Unknow",
+        "image": "https://images.innoveduc.fr/easter_hackathon/15.jpeg",
+        "skills": [
+            "magnetic control:7",
+            "hight strength:4",
+            "resurrection:5"
+        ],
+        "id": "5cac51240d488f0da6151c45",
+        "meta": {
+            "revision": 0,
+            "created": 1555590498964,
+            "version": 0
+        },
+        "$loki": 137
+    },
+    {
+        "name": "Elektra Natchios",
+        "species": "Human",
+        "gender": "Female",
+        "origin": "Earth",
+        "image": "https://images.innoveduc.fr/easter_hackathon/250px-Elektra_3.jpg",
+        "skills": [
+            "resurrection:9",
+            "Xray vision:1",
+            "fly:4"
+        ],
+        "id": "5cac51240d488f0da6151c46",
+        "meta": {
+            "revision": 0,
+            "created": 1555590498964,
+            "version": 0
+        },
+        "$loki": 138
+    },
+    {
+        "name": "Amish Cyborg",
+        "species": "Alien",
+        "gender": "Male",
+        "origin": "Unknow",
+        "image": "https://images.innoveduc.fr/easter_hackathon/16.jpeg",
+        "skills": [
+            "invisibility:8",
+            "invisibility:6",
+            "Xray vision:2"
+        ],
+        "id": "5cac51240d488f0da6151c47",
+        "meta": {
+            "revision": 0,
+            "created": 1555590498964,
+            "version": 0
+        },
+        "$loki": 139
+    },
+    {
+        "name": "Annie",
+        "species": "Human",
+        "gender": "Female",
+        "origin": "Earth",
+        "image": "https://images.innoveduc.fr/easter_hackathon/17.jpeg",
+        "skills": [
+            "hight strength:3",
+            "dexterity:4",
+            "Xray vision:9"
+        ],
+        "id": "5cac51240d488f0da6151c48",
+        "meta": {
+            "revision": 0,
+            "created": 1555590498964,
+            "version": 0
+        },
+        "$loki": 140
+    },
+    {
+        "name": "Judge Dredd",
+        "species": "Human",
+        "gender": "Male",
+        "origin": "Mega-City One",
+        "image": "https://images.innoveduc.fr/easter_hackathon/91P9Csqk5RL.jpg",
+        "skills": [
+            "invisibility:1",
+            "pass through walls:3",
+            "hight speed:4"
+        ],
+        "id": "5cac51240d488f0da6151c49",
+        "meta": {
+            "revision": 0,
+            "created": 1555590498964,
+            "version": 0
+        },
+        "$loki": 141
+    },
+    {
+        "name": "Antenna Morty",
+        "species": "Human",
+        "gender": "Male",
+        "origin": "Unknow",
+        "image": "https://images.innoveduc.fr/easter_hackathon/18.jpeg",
+        "skills": [
+            "resurrection:2",
+            "magnetic control:7",
+            "dexterity:9"
+        ],
+        "id": "5cac51240d488f0da6151c4a",
+        "meta": {
+            "revision": 0,
+            "created": 1555590498964,
+            "version": 0
+        },
+        "$loki": 142
+    },
+    {
+        "name": "Antenna Rick",
+        "species": "Human",
+        "gender": "Male",
+        "origin": "Unknow",
+        "image": "https://images.innoveduc.fr/easter_hackathon/19.jpeg",
+        "skills": [
+            "resurrection:8",
+            "pass through walls:9",
+            "resurrection:8"
+        ],
+        "id": "5cac51240d488f0da6151c4b",
+        "meta": {
+            "revision": 0,
+            "created": 1555590498964,
+            "version": 0
+        },
+        "$loki": 143
+    },
+    {
+        "name": "Catwoman",
+        "species": "Human",
+        "gender": "Female",
+        "origin": "Earth",
+        "image": "https://images.innoveduc.fr/easter_hackathon/250px-Catwoman_DC_Rebirth_version.jpg",
+        "skills": [
+            "mental control:8",
+            "invisibility:6",
+            "invisibility:5"
+        ],
+        "id": "5cac51240d488f0da6151c4c",
+        "meta": {
+            "revision": 0,
+            "created": 1555590498964,
+            "version": 0
+        },
+        "$loki": 144
+    },
+    {
+        "name": "Ants in my Eyes Johnson",
+        "species": "Human",
+        "gender": "Male",
+        "origin": "Unknow",
+        "image": "https://images.innoveduc.fr/easter_hackathon/20.jpeg",
+        "skills": [
+            "resurrection:4",
+            "pass through walls:8",
+            "hight speed:3"
+        ],
+        "id": "5cac51240d488f0da6151c4d",
+        "meta": {
+            "revision": 0,
+            "created": 1555590498964,
+            "version": 0
+        },
+        "$loki": 145
+    },
+    {
+        "name": "Crocubot",
+        "species": "Humanoid",
+        "gender": "Male",
+        "origin": "Unknow",
+        "image": "https://images.innoveduc.fr/easter_hackathon/81.jpeg",
+        "skills": [
+            "hight speed:9",
+            "dexterity:4",
+            "invisibility:9"
+        ],
+        "id": "5cac51240d488f0da6151c4e",
+        "meta": {
+            "revision": 0,
+            "created": 1555590498964,
+            "version": 0
+        },
+        "$loki": 146
+    },
+    {
+        "name": "Jessica Rabbit",
+        "species": "Human toon",
+        "gender": "Female",
+        "origin": "Toons City",
+        "image": "https://images.innoveduc.fr/easter_hackathon/kisspng-jessica-rabbit-roger-rabbit-fan-art-clip-art-jessica-rabbit-5b2033dc0f8b46.6307732315288370840637.jpg",
+        "skills": [
+            "mental control:2",
+            "resurrection:7",
+            "pass through walls:2"
+        ],
+        "id": "5cac51240d488f0da6151c4f",
+        "meta": {
+            "revision": 0,
+            "created": 1555590498964,
+            "version": 0
+        },
+        "$loki": 147
+    },
+    {
+        "name": "Cronenberg Rick",
+        "species": "Cronenberg",
+        "gender": "Male",
+        "origin": "Cronenberg Earth",
+        "image": "https://images.innoveduc.fr/easter_hackathon/82.jpeg",
+        "skills": [
+            "magnetic control:9",
+            "hight strength:8",
+            "fly:3"
+        ],
+        "id": "5cac51240d488f0da6151c50",
+        "meta": {
+            "revision": 0,
+            "created": 1555590498964,
+            "version": 0
+        },
+        "$loki": 148
+    },
+    {
+        "name": "Cronenberg Morty",
+        "species": "Cronenberg",
+        "gender": "Male",
+        "origin": "Cronenberg Earth",
+        "image": "https://images.innoveduc.fr/easter_hackathon/83.jpeg",
+        "skills": [
+            "magnetic control:9",
+            "fly:2",
+            "resurrection:5"
+        ],
+        "id": "5cac51240d488f0da6151c51",
+        "meta": {
+            "revision": 0,
+            "created": 1555590498964,
+            "version": 0
+        },
+        "$loki": 149
+    },
+    {
+        "name": "Barbara Gordon",
+        "species": "Human",
+        "gender": "Female",
+        "origin": "Earth",
+        "image": "https://images.innoveduc.fr/easter_hackathon/250px-Barbara_Gordon_Batgirl_Vol_5_4.png",
+        "skills": [
+            "Xray vision:2",
+            "mental control:1",
+            "mental control:4"
+        ],
+        "id": "5cac51240d488f0da6151c52",
+        "meta": {
+            "revision": 0,
+            "created": 1555590498964,
+            "version": 0
+        },
+        "$loki": 150
+    },
+    {
+        "name": "Cult Leader Morty",
+        "species": "Human",
+        "gender": "Male",
+        "origin": "Unknow",
+        "image": "https://images.innoveduc.fr/easter_hackathon/84.jpeg",
+        "skills": [
+            "magnetic control:1",
+            "magnetic control:9",
+            "fly:8"
+        ],
+        "id": "5cac51240d488f0da6151c53",
+        "meta": {
+            "revision": 0,
+            "created": 1555590498964,
+            "version": 0
+        },
+        "$loki": 151
+    },
+    {
+        "name": "Cyclops Morty",
+        "species": "Humanoid",
+        "gender": "Male",
+        "origin": "Unknow",
+        "image": "https://images.innoveduc.fr/easter_hackathon/85.jpeg",
+        "skills": [
+            "dexterity:3",
+            "mental control:9",
+            "pass through walls:9"
+        ],
+        "id": "5cac51240d488f0da6151c54",
+        "meta": {
+            "revision": 0,
+            "created": 1555590498964,
+            "version": 0
+        },
+        "$loki": 152
+    },
+    {
+        "name": "Cyclops Rick",
+        "species": "Humanoid",
+        "gender": "Male",
+        "origin": "Unknow",
+        "image": "https://images.innoveduc.fr/easter_hackathon/86.jpeg",
+        "skills": [
+            "dexterity:1",
+            "Xray vision:8",
+            "hight speed:7"
+        ],
+        "id": "5cac51240d488f0da6151c55",
+        "meta": {
+            "revision": 0,
+            "created": 1555590498964,
+            "version": 0
+        },
+        "$loki": 153
+    },
+    {
+        "name": "Cynthia",
+        "species": "Alien",
+        "gender": "Female",
+        "origin": "Unknow",
+        "image": "https://images.innoveduc.fr/easter_hackathon/87.jpeg",
+        "skills": [
+            "Xray vision:1",
+            "hight speed:2",
+            "resurrection:4"
+        ],
+        "id": "5cac51240d488f0da6151c56",
+        "meta": {
+            "revision": 0,
+            "created": 1555590498964,
+            "version": 0
+        },
+        "$loki": 154
+    },
+    {
+        "name": "Cynthia",
+        "species": "Human",
+        "gender": "Female",
+        "origin": "Earth",
+        "image": "https://images.innoveduc.fr/easter_hackathon/88.jpeg",
+        "skills": [
+            "invisibility:1",
+            "hight strength:5",
+            "hight speed:6"
+        ],
+        "id": "5cac51240d488f0da6151c57",
+        "meta": {
+            "revision": 0,
+            "created": 1555590498964,
+            "version": 0
+        },
+        "$loki": 155
+    },
+    {
+        "name": "Dana Scully",
+        "species": "Human",
+        "gender": "Female",
+        "origin": "Earth",
+        "image": "https://images.innoveduc.fr/easter_hackathon/6397592-star_wars_44_textless.jpg",
+        "skills": [
+            "mental control:1",
+            "magnetic control:3",
+            "hight speed:9"
+        ],
+        "id": "5cac51240d488f0da6151c58",
+        "meta": {
+            "revision": 0,
+            "created": 1555590498964,
+            "version": 0
+        },
+        "$loki": 156
+    },
+    {
+        "name": "Dale",
+        "species": "Humanoid",
+        "gender": "Male",
+        "origin": "Giant's Town",
+        "image": "https://images.innoveduc.fr/easter_hackathon/89.jpeg",
+        "skills": [
+            "dexterity:8",
+            "dexterity:2",
+            "invisibility:3"
+        ],
+        "id": "5cac51240d488f0da6151c59",
+        "meta": {
+            "revision": 0,
+            "created": 1555590498964,
+            "version": 0
+        },
+        "$loki": 157
+    },
+    {
+        "name": "Daron Jefferson",
+        "species": "Alien",
+        "gender": "Male",
+        "origin": "Unity's Planet",
+        "image": "https://images.innoveduc.fr/easter_hackathon/90.jpeg",
+        "skills": [
+            "fly:8",
+            "hight strength:5",
+            "Xray vision:1"
+        ],
+        "id": "5cac51240d488f0da6151c5a",
+        "meta": {
+            "revision": 0,
+            "created": 1555590498964,
+            "version": 0
+        },
+        "$loki": 158
+    },
+    {
+        "name": "David Letterman",
+        "species": "Human",
+        "gender": "Male",
+        "origin": "Earth",
+        "image": "https://images.innoveduc.fr/easter_hackathon/91.jpeg",
+        "skills": [
+            "hight strength:6",
+            "dexterity:1",
+            "Xray vision:8"
+        ],
+        "id": "5cac51240d488f0da6151c5b",
+        "meta": {
+            "revision": 0,
+            "created": 1555590498964,
+            "version": 0
+        },
+        "$loki": 159
+    },
+    {
+        "name": "Davin",
+        "species": "Human",
+        "gender": "Male",
+        "origin": "Earth",
+        "image": "https://images.innoveduc.fr/easter_hackathon/92.jpeg",
+        "skills": [
+            "pass through walls:5",
+            "mental control:4",
+            "invisibility:9"
+        ],
+        "id": "5cac51240d488f0da6151c5c",
+        "meta": {
+            "revision": 0,
+            "created": 1555590498964,
+            "version": 0
+        },
+        "$loki": 160
+    },
+    {
+        "name": "Diablo Verde",
+        "species": "Humanoid",
+        "gender": "Male",
+        "origin": "Unknow",
+        "image": "https://images.innoveduc.fr/easter_hackathon/93.jpeg",
+        "skills": [
+            "dexterity:7",
+            "dexterity:9",
+            "fly:4"
+        ],
+        "id": "5cac51240d488f0da6151c5d",
+        "meta": {
+            "revision": 0,
+            "created": 1555590498964,
+            "version": 0
+        },
+        "$loki": 161
+    },
+    {
+        "name": "Cersei Baratheon",
+        "species": "Human",
+        "gender": "Female",
+        "origin": "Castral Roc",
+        "image": "https://images.innoveduc.fr/easter_hackathon/Cersei_Lannister.png",
+        "skills": [
+            "pass through walls:1",
+            "mental control:2",
+            "pass through walls:2"
+        ],
+        "id": "5cac51240d488f0da6151c5e",
+        "meta": {
+            "revision": 0,
+            "created": 1555590498964,
+            "version": 0
+        },
+        "$loki": 162
+    },
+    {
+        "name": "Diane Sanchez",
+        "species": "Human",
+        "gender": "Female",
+        "origin": "Earth (Unknown dimension)",
+        "image": "https://images.innoveduc.fr/easter_hackathon/94.jpeg",
+        "skills": [
+            "dexterity:5",
+            "hight speed:9",
+            "Xray vision:9"
+        ],
+        "id": "5cac51240d488f0da6151c5f",
+        "meta": {
+            "revision": 0,
+            "created": 1555590498964,
+            "version": 0
+        },
+        "$loki": 163
+    },
+    {
+        "name": "Dipper and Mabel Mortys",
+        "species": "Human",
+        "gender": "unknown",
+        "origin": "Unknow",
+        "image": "https://images.innoveduc.fr/easter_hackathon/95.jpeg",
+        "skills": [
+            "Xray vision:1",
+            "hight strength:8",
+            "hight speed:8"
+        ],
+        "id": "5cac51240d488f0da6151c60",
+        "meta": {
+            "revision": 0,
+            "created": 1555590498964,
+            "version": 0
+        },
+        "$loki": 164
+    },
+    {
+        "name": "Tuberculosis",
+        "species": "Disease",
+        "gender": "unknown",
+        "origin": "Anatomy Park",
+        "image": "https://images.innoveduc.fr/easter_hackathon/96.jpeg",
+        "skills": [
+            "fly:2",
+            "fly:6",
+            "resurrection:1"
+        ],
+        "id": "5cac51240d488f0da6151c61",
+        "meta": {
+            "revision": 0,
+            "created": 1555590498964,
+            "version": 0
+        },
+        "$loki": 165
+    },
+    {
+        "name": "Princess Leia",
+        "species": "Human",
+        "gender": "Female",
+        "origin": "Polis Massa",
+        "image": "https://images.innoveduc.fr/easter_hackathon/6397592-star_wars_44_textless.jpg",
+        "skills": [
+            "mental control:8",
+            "pass through walls:9",
+            "Xray vision:9"
+        ],
+        "id": "5cac51240d488f0da6151c62",
+        "meta": {
+            "revision": 0,
+            "created": 1555590498964,
+            "version": 0
+        },
+        "$loki": 166
+    },
+    {
+        "name": "Gonorrhea",
+        "species": "Disease",
+        "gender": "unknown",
+        "origin": "Anatomy Park",
+        "image": "https://images.innoveduc.fr/easter_hackathon/97.jpeg",
+        "skills": [
+            "dexterity:8",
+            "resurrection:8",
+            "Xray vision:8"
+        ],
+        "id": "5cac51240d488f0da6151c63",
+        "meta": {
+            "revision": 0,
+            "created": 1555590498964,
+            "version": 0
+        },
+        "$loki": 167
+    },
+    {
+        "name": "Hepatitis A",
+        "species": "Disease",
+        "gender": "unknown",
+        "origin": "Anatomy Park",
+        "image": "https://images.innoveduc.fr/easter_hackathon/98.jpeg",
+        "skills": [
+            "pass through walls:4",
+            "hight strength:4",
+            "dexterity:9"
+        ],
+        "id": "5cac51240d488f0da6151c64",
+        "meta": {
+            "revision": 0,
+            "created": 1555590498964,
+            "version": 0
+        },
+        "$loki": 168
+    },
+    {
+        "name": "Harley Quinn",
+        "species": "Human",
+        "gender": "Female",
+        "origin": "Gotham City",
+        "image": "https://images.innoveduc.fr/easter_hackathon/Figurine-Hot-Toys-Harley-Quinn-3.jpg",
+        "skills": [
+            "fly:1",
+            "hight strength:6",
+            "pass through walls:5"
+        ],
+        "id": "5cac51240d488f0da6151c65",
+        "meta": {
+            "revision": 0,
+            "created": 1555590498964,
+            "version": 0
+        },
+        "$loki": 169
+    },
+    {
+        "name": "Hepatitis C",
+        "species": "Disease",
+        "gender": "unknown",
+        "origin": "Anatomy Park",
+        "image": "https://images.innoveduc.fr/easter_hackathon/99.jpeg",
+        "skills": [
+            "hight strength:3",
+            "pass through walls:2",
+            "dexterity:3"
+        ],
+        "id": "5cac51240d488f0da6151c66",
+        "meta": {
+            "revision": 0,
+            "created": 1555590498964,
+            "version": 0
+        },
+        "$loki": 170
+    },
+    {
+        "name": "Bubonic Plague",
+        "species": "Disease",
+        "gender": "unknown",
+        "origin": "Anatomy Park",
+        "image": "https://images.innoveduc.fr/easter_hackathon/100.jpeg",
+        "skills": [
+            "mental control:1",
+            "fly:8",
+            "mental control:5"
+        ],
+        "id": "5cac51240d488f0da6151c67",
+        "meta": {
+            "revision": 0,
+            "created": 1555590498964,
+            "version": 0
+        },
+        "$loki": 171
+    },
+    {
+        "name": "Gandalf",
+        "species": "Maia",
+        "gender": "Male",
+        "origin": "Valinor",
+        "image": "https://images.innoveduc.fr/easter_hackathon/4262699-a86be31143ba35176665964cfa29516a-d5qg94n.jpg",
+        "skills": [
+            "mental control:7",
+            "pass through walls:1",
+            "hight speed:1"
+        ],
+        "id": "5cac51240d488f0da6151c68",
+        "meta": {
+            "revision": 0,
+            "created": 1555590498964,
+            "version": 0
+        },
+        "$loki": 172
+    },
+    {
+        "name": "Wonder Woman",
+        "species": "Amazonian-Olympian",
+        "gender": "Female",
+        "origin": "Themyscira",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Wonder_Woman.jpg/250px-Wonder_Woman.jpg",
+        "skills": [
+            "fly:6",
+            "dexterity:8",
+            "invisibility:5"
+        ],
+        "id": "5cac51240d488f0da6151c69",
+        "meta": {
+            "revision": 0,
+            "created": 1555590498964,
+            "version": 0
+        },
+        "$loki": 173
+    },
+    {
+        "name": "Brian Cohen",
+        "species": "Human",
+        "gender": "Male",
+        "origin": "Jerusalem (near Jesus stable)",
+        "image": "https://images.innoveduc.fr/easter_hackathon/brian.jpg",
+        "skills": [
+            "magnetic control:1",
+            "hight speed:5",
+            "resurrection:1"
+        ],
+        "id": "5cac51240d488f0da6151c6a",
+        "meta": {
+            "revision": 0,
+            "created": 1555590498964,
+            "version": 0
+        },
+        "$loki": 174
+    }
+]
