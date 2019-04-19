@@ -1,15 +1,17 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
-
+import { RouterModule } from '@angular/router';
 import { HttpClientModule } from '@angular/common/http';
-import{FormsModule} from '@angular/forms';
+import {FormsModule} from '@angular/forms';
 
 
 
-import { HttpClientModule } from '@angular/common/http';
+
 import { AppComponent } from './app.component';
 
 import { AccueilComponent } from './accueil/accueil.component';
+import { ROUTES } from './app.route';
+
 
 
 import { RabbitComponent } from './rabbit/rabbit.component';
@@ -26,14 +28,6 @@ import { Egg6Component } from './egg6/egg6.component';
 @NgModule({
   declarations: [
     AppComponent,
-
-    
-  ],
-  imports: [
-    BrowserModule,
-    FormsModule, 
-    HttpClientModule,
-    
     AccueilComponent,
     RabbitComponent,
     HellComponent,
@@ -44,9 +38,18 @@ import { Egg6Component } from './egg6/egg6.component';
     Egg4Component,
     Egg5Component,
     Egg6Component
+    
+    
+  ],
+  imports: [
+    
+    BrowserModule,
+    FormsModule, 
+    HttpClientModule,
+    RouterModule.forRoot(ROUTES)
   ],
 
-  ],
+  
   providers: [],
   bootstrap: [AppComponent]
 })
