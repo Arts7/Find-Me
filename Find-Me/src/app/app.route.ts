@@ -22,7 +22,7 @@ const ROUTES: Routes = [
     { path: 'hell', component: HellComponent },
     { path: 'rabbit', component: RabbitComponent },
     { path: 'doctor', component: DoctorComponent },
-    { path: '', component: AccueilComponent }
+    { path: 'Accueil', component: AccueilComponent }
 ];
 
 export  { ROUTES };
